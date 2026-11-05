@@ -1,0 +1,16 @@
+# Flutter ignore
+.dart_tool/
+.idea/
+.vscode/
+build/
+.packages
+.pub-cache/
+.pub/
+
+# Secretos: JAMAS al repositorio
+secrets.json
+*.env
+.env*
+*.jks
+*.keystore
+key.properties
